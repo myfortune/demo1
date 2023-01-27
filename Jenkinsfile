@@ -12,6 +12,7 @@ pipeline{
             steps{
                 echo 'Test Stage';
 		echo 'thhahaha';
+Echo 'ehehehe';
             }
         }
     }
