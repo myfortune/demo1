@@ -13,6 +13,7 @@ pipeline{
                 echo 'Test Stage';
 		echo 'thhahaha';
 Echo 'ehehehe';
+Echo 'huehuehue for versioning';
             }
         }
     }
